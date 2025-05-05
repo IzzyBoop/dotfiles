@@ -36,4 +36,6 @@ Can change `"style": "agnoster_short"` in the path segment to `"style": "full"` 
 
 Theme is [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 
+## ScweenShot
+
 <img width="1512" alt="image" src="https://github.com/IzzyBoop/dotfiles/blob/main/image.png" />
