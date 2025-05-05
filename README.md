@@ -1,7 +1,7 @@
 # Waddup Nerd
 This is my own personal repo just to keep track of things. Don't expect quality or effort.
 
-## JankyBorders
+## JankyBorders (pretty coloured borders)
 `~/.config/borders`
 
 [JankyBorders Github](https://github.com/FelixKratz/JankyBorders?tab=readme-ov-file)
@@ -13,7 +13,7 @@ Just inject the ASCII art directly into your neofetch.sh for your respective OS
 
 `/opt/homebrew/bin/`
 
-## Aerospace
+## Aerospace (tiling window manager)
 `~/.aerospace.toml`
 
 Main changes:
