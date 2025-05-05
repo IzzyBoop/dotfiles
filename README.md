@@ -42,6 +42,12 @@ Terminal Settings:
 - **Opacity:** 75%
 - **Blur:** 50%
 
+## SketchyBar
+
+Not yet configured. Working on it.
+
+[SketchyBar Documentation](https://felixkratz.github.io/SketchyBar/setup)
+
 ## VSCode
 
 Theme is [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
