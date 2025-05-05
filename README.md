@@ -4,6 +4,9 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 ### borders
 `~/.config/borders`
 
+[JankyBorders Github](https://github.com/FelixKratz/JankyBorders?tab=readme-ov-file)
+[JankyBorders Documentation](https://github.com/FelixKratz/JankyBorders/wiki/Man-Page)
+
 ### neofetch
 `/opt/homebrew/bin/`
 
@@ -14,5 +17,7 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 
 ### oh-my-posh
 `/opt/homebrew/opt/oh-my-posh/themes`
+
+[Oh My Posh Documentation](https://ohmyposh.dev/docs)
 
 <img width="1512" alt="image" src="https://github.com/IzzyBoop/dotfiles/blob/main/image.png" />
