@@ -2,7 +2,7 @@
 This is my own personal repo just to keep track of things. Don't expect quality or effort.
 
 ## JankyBorders (pretty coloured borders)
-`~/.config/borders`
+Location: `~/.config/borders`
 
 [JankyBorders Github](https://github.com/FelixKratz/JankyBorders?tab=readme-ov-file)
 
@@ -11,10 +11,10 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 ## NeoFetch
 Just inject the ASCII art directly into your `neofetch.sh` for your respective OS
 
-`/opt/homebrew/bin/`
+Location: `/opt/homebrew/bin/`
 
 ## Aerospace (tiling window manager)
-`~/.aerospace.toml`
+Location: `~/.aerospace.toml`
 
 Main changes:
 - Moved float hotkey to main mode and set to `alt-shift-f`
@@ -24,9 +24,9 @@ Main changes:
 [Aerospace Documentation](https://nikitabobko.github.io/AeroSpace/guide#installation)
 
 ## Oh My Posh
-`/opt/homebrew/opt/oh-my-posh/themes`
+Location: `/opt/homebrew/opt/oh-my-posh/themes`
 
-Added date and time for more detailed screenshots, differentiated colour between date, user/host, and path for people with bad eyes (me). Put prompt on new line because it looks better, fight me.
+Started with `catppuccin_mocha` theme. Added date and time for more detailed screenshots, differentiated colour between date, user/host, and path for people with bad eyes (me). Put prompt on new line because it looks better, fight me. Removed git status segment, may put it back later.
 
 Can change `"style": "agnoster_short"` in the path segment to `"style": "full"` if you dont want a truncated path.
 
