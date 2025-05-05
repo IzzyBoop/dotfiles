@@ -26,6 +26,8 @@ Main changes:
 ## Oh My Posh
 `/opt/homebrew/opt/oh-my-posh/themes`
 
+Added date and time for more detailed screenshots, differentiated colour between date, user/host, and path for people with bad eyes (me). Put prompt on new line because it looks better, fight me.
+
 Can change `"style": "agnoster_short"` in the path segment to `"style": "full"` if you dont want a truncated path.
 
 [Oh My Posh Documentation](https://ohmyposh.dev/docs)
