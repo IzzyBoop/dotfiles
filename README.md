@@ -9,6 +9,7 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 
 ## NeoFetch
 Just inject the ASCII art directly into your neofetch.sh for your respective OS
+
 `/opt/homebrew/bin/`
 
 ## Aerospace
