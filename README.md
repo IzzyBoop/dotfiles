@@ -26,7 +26,7 @@ Main changes:
 ## Oh My Posh
 `/opt/homebrew/opt/oh-my-posh/themes`
 
-Can change `"style": "agnoster_short"` in the path segment to `"style": "full"` if you dont want it shortened.
+Can change `"style": "agnoster_short"` in the path segment to `"style": "full"` if you dont want a truncated path.
 
 [Oh My Posh Documentation](https://ohmyposh.dev/docs)
 
