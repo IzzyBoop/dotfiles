@@ -8,7 +8,7 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 [JankyBorders Documentation](https://github.com/FelixKratz/JankyBorders/wiki/Man-Page)
 
 ## NeoFetch
-##### just inject this into your neofetch.sh for your respective OS
+##### just inject the ASCII art directly into your neofetch.sh for your respective OS
 `/opt/homebrew/bin/`
 
 ## Aerospace
