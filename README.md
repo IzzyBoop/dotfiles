@@ -32,6 +32,12 @@ Can change `"style": "agnoster_short"` in the path segment to `"style": "full"` 
 
 [Oh My Posh Documentation](https://ohmyposh.dev/docs)
 
+Terminal Settings:
+- **Font:** MesloLGM Nerd Font Regular 11
+- **BG Colour:** #1e1e2e
+- **Opacity:** 75%
+- **Blur:** 50%
+
 ## VSCode
 
 Theme is [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
