@@ -1,6 +1,15 @@
 # Waddup Nerd
 This is my own personal repo just to keep track of things. Don't expect quality or effort.
 
+List of Things:
+- JankyBorders
+- Neofetch ASCII Art
+- Aerospace
+- SketchyBar
+- Oh My Posh
+- Terminal.app Settings
+- VSCode Theme
+
 ## JankyBorders (pretty coloured borders)
 Location: `~/.config/borders`
 
@@ -25,6 +34,12 @@ Main changes:
 
 [Aerospace Documentation](https://nikitabobko.github.io/AeroSpace/guide#installation)
 
+## SketchyBar
+
+Not yet configured. Working on it.
+
+[SketchyBar Documentation](https://felixkratz.github.io/SketchyBar/setup)
+
 ## Oh My Posh
 Location: `/opt/homebrew/opt/oh-my-posh/themes`
 
@@ -41,12 +56,6 @@ Terminal Settings:
 - **BG Colour:** `#1e1e2e` (you can colourpick the bg colour of `catppuccin_mocha` from [this](https://ohmyposh.dev/docs/themes) page.
 - **Opacity:** 75%
 - **Blur:** 50%
-
-## SketchyBar
-
-Not yet configured. Working on it.
-
-[SketchyBar Documentation](https://felixkratz.github.io/SketchyBar/setup)
 
 ## VSCode
 
