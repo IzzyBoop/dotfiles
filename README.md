@@ -9,6 +9,7 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 
 ### aerospace
 `~/.aerospace.toml`
+
 [Aerospace Documentation](https://nikitabobko.github.io/AeroSpace/guide#installation)
 
 ### oh-my-posh
