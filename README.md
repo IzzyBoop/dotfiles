@@ -16,6 +16,8 @@ Location: `/opt/homebrew/bin/`
 ## Aerospace (tiling window manager)
 Location: `~/.aerospace.toml`
 
+After configuring aerospace, you may notice `Mission Control` (three finger swipe up) shows very small windows. To fix this go into `settings > Desktop & Dock > Mission Control` and set `Group windows by application` to `On`.
+
 Main changes:
 - Moved float hotkey to main mode and set to `alt-shift-f`
 - changed move and focus direction keys from `hjkl` to `ijkl` because gaymers > vim
