@@ -5,6 +5,7 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 `~/.config/borders`
 
 [JankyBorders Github](https://github.com/FelixKratz/JankyBorders?tab=readme-ov-file)
+
 [JankyBorders Documentation](https://github.com/FelixKratz/JankyBorders/wiki/Man-Page)
 
 ## NeoFetch
