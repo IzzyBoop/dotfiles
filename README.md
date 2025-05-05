@@ -32,6 +32,8 @@ Can change `"style": "agnoster_short"` in the path segment to `"style": "full"` 
 
 [Oh My Posh Documentation](https://ohmyposh.dev/docs)
 
+## Terminal.app
+
 Terminal Settings:
 - **Font:** MesloLGM Nerd Font Regular 11
 - **BG Colour:** #1e1e2e
