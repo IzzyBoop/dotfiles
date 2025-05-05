@@ -19,7 +19,7 @@ Location: `~/.aerospace.toml`
 After configuring aerospace, you may notice `Mission Control` (three finger swipe up) shows very small windows. To fix this go into `Settings > Desktop & Dock > Mission Control` and set `Group windows by application` to `On`.
 
 Main changes:
-- Moved float hotkey to main mode and set to `alt-shift-f`
+- Moved `float` hotkey to main mode and set to `alt-shift-f`
 - changed move and focus direction keys from `hjkl` to `ijkl` because gaymers > vim
 - removed all lettered workspace hotkeys, kept 1-10; to avoid weird conflicts with hotkeys.
 
