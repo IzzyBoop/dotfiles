@@ -9,7 +9,7 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 [JankyBorders Documentation](https://github.com/FelixKratz/JankyBorders/wiki/Man-Page)
 
 ## NeoFetch
-Just inject the ASCII art directly into your neofetch.sh for your respective OS
+Just inject the ASCII art directly into your `neofetch.sh` for your respective OS
 
 `/opt/homebrew/bin/`
 
@@ -17,8 +17,8 @@ Just inject the ASCII art directly into your neofetch.sh for your respective OS
 `~/.aerospace.toml`
 
 Main changes:
-- Moved float hotkey to main mode and set to alt-shift-f
-- changed move and focus direction keys from hjkl to ijkl because gaymers > vim
+- Moved float hotkey to main mode and set to `alt-shift-f`
+- changed move and focus direction keys from `hjkl` to `ijkl` because gaymers > vim
 - removed all lettered workspace hotkeys, kept 1-10; to avoid weird conflicts with hotkeys.
 
 [Aerospace Documentation](https://nikitabobko.github.io/AeroSpace/guide#installation)
