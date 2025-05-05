@@ -14,6 +14,3 @@ This is my own personal repo just to keep track of things. Don't expect quality 
 `/opt/homebrew/opt/oh-my-posh/themes`
 
 <img width="1512" alt="image" src="https://github.com/IzzyBoop/dotfiles/blob/main/image.png" />
-
-https://github.com/IzzyBoop/dotfiles/blob/main/image.png
-https://github.com/user-attachments/assets/9201a242-bec5-4c0d-a3a6-a7f95065776e
