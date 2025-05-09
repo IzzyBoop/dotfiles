@@ -63,4 +63,4 @@ Theme is [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=Rob
 
 ## ScweenShot
 
-![image](https://github.com/IzzyBoop/dotfiles/blob/main/image.png)
+![image](https://github.com/IzzyBoop/dotfiles/blob/main/Screenshot%202025-05-09%20at%2009.36.06.png)
